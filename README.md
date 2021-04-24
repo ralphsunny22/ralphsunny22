@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ralphsunny22
+- 👋 Hi, I’m Ugo Sunday Raphael
 - 👀 I’m interested in React, Laravel and NodeJs
 - 🌱 I’m currently learning Node JS
 - 💞️ I’m looking to collaborate on React, Laravel or Node Js
