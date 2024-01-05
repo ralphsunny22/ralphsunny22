@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ugo Sunday Raphael
-- 👀 I’m interested in React, Laravel and NodeJs
+- 👀 I’m interested in React-Native, React, Laravel and NodeJs
 - 🌱 I’m currently working on Ruby
 - 💞️ I’m looking to collaborate on React, Laravel or Node Js
 - 📫 How to reach me ... +2348066216874
